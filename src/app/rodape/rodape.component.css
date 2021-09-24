@@ -1,0 +1,24 @@
+ul.social-network{
+    list-style: none;
+    padding: 0;
+}
+
+ul.social-network li{
+    display: inline;
+    margin: 0;
+    padding: 5px;
+}
+
+.fs-icon-social{
+    font-size: 35pt;
+    color: black;
+    padding: 10px;
+}
+
+.fs-icon-social:hover{
+    color: rgb(128, 120, 120);
+}
+
+.color-hiperlink-0{
+    color: white;
+}
